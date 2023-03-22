@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Myproject.iml" filepath="$PROJECT_DIR$/Myproject.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Myproject1.iml" filepath="$PROJECT_DIR$/Myproject1.iml" />
+>>>>>>> 9210fe1 (updated file)
     </modules>
   </component>
 </project>
