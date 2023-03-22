@@ -1,3 +1,5 @@
+import jdk.swing.interop.SwingInterOpUtils;
+
 import java.util.Scanner;
 
 public class Main {
@@ -6,5 +8,7 @@ public class Main {
         Scanner sc1 = new Scanner(System.in);
         String name = sc1.nextLine();
         System.out.println(name);
+
+        System.out.println("Hello Olarn");
     }
 }
